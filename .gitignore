@@ -78,3 +78,8 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+week01_intro/answers/
+week01_intro/videos/
+week01_intro/videos2/
+week01_intro/dz1.zip
