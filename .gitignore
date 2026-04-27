@@ -1,5 +1,5 @@
 week01_intro/videos
-
+.venv311/
 # node and NPM
 npm-debug.log
 node_modules
